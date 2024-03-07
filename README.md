@@ -4,7 +4,7 @@
 
 pkg install termcolor
 
-pip install colorama
+
 
 pkg install colorama
 
