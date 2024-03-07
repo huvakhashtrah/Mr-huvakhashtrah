@@ -8,7 +8,7 @@ pkg install termcolor
 
 pkg install colorama
 
-pip install pyfiglet
+
 
 pkg install pyfiglet
 
