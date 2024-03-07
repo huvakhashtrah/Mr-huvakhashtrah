@@ -2,6 +2,10 @@
 
 pkg install libexpat
 
+
+pkg install python
+
+
 pip install termcolor
 
 
@@ -12,7 +16,6 @@ pip install colorama
 
 pip install pyfiglet
 
-pkg install python
 
 pkg install git
 
