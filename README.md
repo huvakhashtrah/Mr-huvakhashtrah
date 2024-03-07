@@ -1,16 +1,16 @@
 کد های فعال سازی 
 
+pkg install libexpat
 
-
-pkg install termcolor
-
-
-
-pkg install colorama
+pip install termcolor
 
 
 
-pkg install pyfiglet
+pip install colorama
+
+
+
+pip install pyfiglet
 
 pkg install python
 
