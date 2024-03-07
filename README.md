@@ -1,6 +1,6 @@
 کد های فعال سازی 
 
-pip install termcolor
+
 
 pkg install termcolor
 
